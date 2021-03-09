@@ -3,6 +3,7 @@ layout: page
 title: Privacy Policy
 subtitle: Last updated February 22, 2021
 ---
+
 **Last updated February 22, 2021**
 
 Thank you for choosing to be part of our community at Avraham Marks ("**Company**", "**we**", "**us**", "**our**"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice, or our practices with regards to your personal information, please contact us at ardesktophelicopter@gmail.com.
@@ -117,15 +118,7 @@ We may update this privacy notice from time to time. The updated version will be
 
 **9. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?**     
 
-If you have questions or comments about this notice, you may email us at \_\_\_\_\_\_\_\_\_\_ or by post to:
-
-Avraham Marks
-
-\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_
-
-United States
+If you have questions or comments about this notice, you may email us at ardesktophelicopter@gmail.com.
 
 **10. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**     
 
