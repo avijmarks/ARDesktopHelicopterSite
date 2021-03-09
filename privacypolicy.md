@@ -53,7 +53,7 @@ The information we collect includes:
 
 -   *Device Data.* We collect device data such as information about your computer, phone, tablet or other device you use to access the App. Depending on the device used, this device data may include information such as your IP address (or proxy server), device and application identification numbers, location, browser type, hardware model Internet service provider and/or mobile carrier, operating system and system configuration information.
 
-Derivitive data of the forms listed above is collected via Unity Analytics. You may view Unity's privacy policy here: [https://unity3d.com/legal/privacy-policy](https://unity3d.com/legal/privacy-policy)
+Derivitive data of the forms listed above is collected via Unity Analytics. You may view Unity3D's privacy policy here: [https://unity3d.com/legal/privacy-policy](https://unity3d.com/legal/privacy-policy)
 
 **
 ****Information collected through our App**
